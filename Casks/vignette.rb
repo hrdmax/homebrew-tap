@@ -7,7 +7,7 @@ cask "vignette" do
   desc "Blurs every window except the focused one"
   homepage "https://github.com/hrdmax/vignette"
 
-  depends_on macos: ">= :sonoma"
+  depends_on macos: :sonoma
 
   app "Vignette.app"
 
