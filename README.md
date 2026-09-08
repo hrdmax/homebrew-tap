@@ -2,6 +2,11 @@
 
 Homebrew tap for [hrdmax](https://github.com/hrdmax)'s apps.
 
+> **Built with [Claude Code](https://claude.com/claude-code).** This tap, the casks
+> in it, and the release automation that keeps them up to date were written by
+> Claude Code, with the direction, design decisions and testing coming from
+> [@hrdmax](https://github.com/hrdmax).
+
 ```sh
 brew install --cask hrdmax/tap/vignette
 ```
